@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ioconfig>
+	<input-directory>
+		c:\gaindata\
+	</input-directory>
+	<input-files all="false">
+		<file>
+			<name>ItalyPowerDemand_TEST_2</name>
+			<classes>2</classes>
+		</file>
+		<file>
+			<name>SwedishLeaf_FULL</name>
+			<classes>14</classes>
+		</file>
+	</input-files>
+	<output-directory>
+		d:\_bme\onlab-gain\results\new\
+	</output-directory>
+</ioconfig>
